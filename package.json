@@ -1,0 +1,24 @@
+{
+  "name": "webscrapingpokedex",
+  "version": "1.0.0",
+  "description": "Aprendendo WebScraping com node.js",
+  "main": "app.js",
+  "dependencies": {
+    "jsdom": "^16.5.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L3m0S/WebScrapingPokedex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L3m0S/WebScrapingPokedex/issues"
+  },
+  "homepage": "https://github.com/L3m0S/WebScrapingPokedex#readme"
+}
